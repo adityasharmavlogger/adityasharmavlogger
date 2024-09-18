@@ -64,9 +64,6 @@
 <hr>
 
 
-
-
-
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
 <!---
 adityasharmavlogger/adityasharmavlogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
